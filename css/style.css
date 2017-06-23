@@ -553,6 +553,8 @@ left: calc(50% - 110px);
 	line-height: 40px;
 	display: table;
 	padding: 0 10px;
+	font-family: Garamond;
+	font-size: 18px;
 }
 
 

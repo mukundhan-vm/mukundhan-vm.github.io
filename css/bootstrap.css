@@ -1101,6 +1101,9 @@ h6,
 }
 p {
   margin: 0 0 10px;
+  font-family: 'Andada';
+  font-size: 18px;
+
 }
 .lead {
   margin-bottom: 20px;
